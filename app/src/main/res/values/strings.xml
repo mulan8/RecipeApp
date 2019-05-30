@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+    <string name="menuitem_edit">Edit</string>
+    <string name="menuitem_delete">Delete</string>
+    <string name="hint_name_required">Recipe Name (Required)</string>
+    <string name="hint_category">Category (e.g. appetizer, entree, dessert)</string>
+    <string name="hint_list_of_ingredients">List of Ingredients</string>
+    <string name="hint_instructions">Instructions for preparing the dish</string>
+    <string name="label_name">Name:</string>
+    <string name="label_category">Category:</string>
+    <string name="label_list_of_ingredients">Ingredients:</string>
+    <string name="label_instructions">Instructions:</string>
+    <string name="confirm_title">Are You Sure?</string>
+    <string name="confirm_message">This will permanently delete the recipe</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="recipe_added">Recipe added successfully</string>
+    <string name="button_delete">Delete</string>
+    <string name="recipe_not_added">Recipe was not added due to an error</string>
+    <string name="recipe_updated">Recipe updated</string>
+    <string name="recipe_not_updated">Recipe was not updated due to an error</string>
+    <string name="invalid_query_uri">Invalid query Uri:</string>
+    <string name="invalid_insert_uri">Invalid insert Uri:</string>
+    <string name="invalid_update_uri">Invalid update Uri:</string>
+    <string name="invalid_delete_uri">Invalid delete Uri:</string>
+    <string name="insert_failed">Insert failed: s</string>
+
+</resources>
